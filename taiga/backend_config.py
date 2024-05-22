@@ -124,13 +124,13 @@ CELERY_TASK_DEFAULT_ROUTING_KEY = 'task.default'
 ## TELEMETRY
 #########################################
 
-ENABLE_TELEMETRY = True
+ENABLE_TELEMETRY = False
 
 #########################################
 ##  REGISTRATION
 #########################################
 
-PUBLIC_REGISTER_ENABLED = True
+PUBLIC_REGISTER_ENABLED = False
 
 #########################################
 ## THROTTLING
